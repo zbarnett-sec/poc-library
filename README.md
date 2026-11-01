@@ -37,7 +37,7 @@ poc-library/
 │   |   └── CVE-<YEAR>-<ID>/
 |   |       ├── CVE-<Year>-<ID>.md
 |   |       └── CVE-<YEAR>-<ID>.py
-|   └── CWEs/     # For weaknesses and exposures with no CVE
+|   └── CWEs/    # For weaknesses and exposures with no CVE
 |       ├── README.md
 |       └── CWE-<ID>/   
 |           ├── CWE-<ID>.md
