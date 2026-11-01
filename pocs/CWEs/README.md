@@ -21,7 +21,7 @@ Each folder is named for the CWE ID, in uppercase.
 Every writeup opens with a metadata table:
 
 ```
-| Field | Description |
+| Field               | Description                                                      |
 |---------------------|------------------------------------------------------------------|
 | **CWE ID and Name** | e.g., CWE-121: Stack-based Buffer Overflow                       |
 | **Category**        | e.g., Memory Safety, Injection, Authentication                   |
