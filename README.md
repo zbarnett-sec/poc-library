@@ -44,9 +44,11 @@ poc-library/
 |           └── exampleScript.c
 └── writeups/
     ├── HTB/
+    |   ├── README.md
     |   └── <LabName>/
     |       └── <LabName>.md
     └── OffSec/
+        ├── README.md
         └── <LabName>/
             └── <LabName>.md          
 ```
